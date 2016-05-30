@@ -1,0 +1,21 @@
+{
+  "name": "descargas",
+  "version": "1.0.0",
+  "description": "admin descargas",
+  "main": "descargas.js",
+  "scripts": {
+    "start": "node descargas.js"
+  },
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "",
+    "http": "0.0.0",
+    "prettyjson": "^1.1.3",
+    "request": "^2.69.0",
+    "rethinkdb": "^2.2.2",
+    "lodash": "^4.13.1"
+  },
+  "devDependencies": {},
+  "author": "nestor diaz",
+  "license": "ISC"
+}
